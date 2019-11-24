@@ -1,0 +1,3 @@
+
+#testing purposes, check the entire psa database depending on digits
+#[print(app.get_psa_dna_card_data(i)) for i in range(0,123456)]
